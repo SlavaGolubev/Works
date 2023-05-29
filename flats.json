@@ -1,0 +1,386 @@
+[
+    {
+        "apartment": "3 комн., 90 м²",
+        "price": "2 882 р. (999 $) в мес.",
+        "address": "Победителей пр, 27, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7320288645.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7336143297.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7328811964.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7302050021.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193082490?searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 86 м²",
+        "price": "1 096 р. (380 $) в мес.",
+        "address": "Одинцова ул, 19, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/61/6195340838.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/61/6104251862.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/61/6112775181.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/61/6112387476.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/191820265?searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 64 м²",
+        "price": "1 212 р. (420 $) в мес.",
+        "address": "Филатова ул, 16, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/80/8008705991.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/80/8034275948.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/80/8068785800.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/80/8089594004.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193839468?rank=0&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 77.4 м²",
+        "price": "1 913 р. (663.09 $) в мес.",
+        "address": "Германовская ул, 15, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9521928868.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9519649040.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9525892531.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9579312273.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195431097?rank=1&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 75.1 м²",
+        "price": "1 300 р. (450.56 $) в мес.",
+        "address": "Кропоткина ул, 47, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5257078478.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5233788349.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5214461883.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/52/5225473318.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/190707465?rank=2&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 74 м²",
+        "price": "952.15 р. (330 $) в мес.",
+        "address": "Колесникова ул, 17, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/58/5888177516.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/58/5862607559.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/58/5845560921.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/58/5854084240.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/191457524?rank=3&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 70 м²",
+        "price": "1 298 р. (450 $) в мес.",
+        "address": "Руссиянова ул, 5к3, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/75/7585161655.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/75/7562050943.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/75/7567831456.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/75/7568115017.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193274651?rank=4&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 55 м²",
+        "price": "1 587 р. (550 $) в мес.",
+        "address": "Макаёнка ул, 12Дк1, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/89/8991487550.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/89/8965917593.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/89/8914777679.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/89/8948870955.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/194818433?rank=5&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 56 м²",
+        "price": "1 068 р. (370 $) в мес.",
+        "address": "Осипенко ул, 28, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/68/6858084205.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/68/6830934557.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/68/6825674764.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/68/6875130843.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/192537899?rank=6&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 90 м²",
+        "price": "2 882 р. (999 $) в мес.",
+        "address": "Победителей пр, 27, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7320288645.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7336143297.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7328811964.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/73/7302050021.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193082490?rank=7&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 65 м²",
+        "price": "1 731 р. (600 $) в мес.",
+        "address": "Брилевская ул, 4, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/02/0272601308.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/02/0289647946.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/02/0255554670.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/02/0281124627.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/183887979?rank=8&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 77.7 м²",
+        "price": "1 154 р. (400 $) в мес.",
+        "address": "Городецкая ул, 22, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9500763914.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9512654903.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9575193957.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9517810552.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195423389?rank=9&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 67 м²",
+        "price": "865.59 р. (300 $) в мес.",
+        "address": "Слободская ул, 95, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/64/6484387455.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/64/6442366853.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/64/6440087025.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/64/6497470430.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/192098354?rank=10&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн.",
+        "price": "1 298 р. (450 $) в мес.",
+        "address": "Газеты Правда пр, 9А, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9349925641.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9341402322.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9374303612.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9324355684.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195229458?rank=11&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн.",
+        "price": "1 100 р. (381.24 $) в мес.",
+        "address": "Кунцевщина ул, 48, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/84/8400896177.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/84/8436777432.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/84/8409419496.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/84/8428254113.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/194230661?rank=12&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 49 м²",
+        "price": "807.88 р. (280 $) в мес.",
+        "address": "Янки Мавра ул, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/66/6657538167.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/66/6691631443.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/66/6674584805.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/66/6649014848.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/192363852?rank=13&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 67.8 м²",
+        "price": "1 154 р. (400 $) в мес.",
+        "address": "Могилёвская ул, 16, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9504451249.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9590772281.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9512974568.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/95/9548155686.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195418549?rank=14&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 60 м²",
+        "price": "1 154 р. (400 $) в мес.",
+        "address": "Менделеева ул, 5, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9443449652.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9434926333.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9426403014.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9409356376.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195400605?rank=15&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 46 м²",
+        "price": "779.03 р. (270 $) в мес.",
+        "address": "Почтовая ул, 1, мкр. Великий Лес, Первомайский район, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9403813022.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9460600434.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9486170391.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9469123753.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195400625?rank=16&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 63 м²",
+        "price": "981 р. (340 $) в мес.",
+        "address": "Илимская ул, 29, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8897305392.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8880258754.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8855284790.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8822736143.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/194752814?rank=17&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн.",
+        "price": "950 р. (329.26 $) в мес.",
+        "address": "Тикоцкого ул, 46к1, мкр. Зелёный Луг-5, мкр. Зелёный Луг, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9490649625.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9416815575.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9425338894.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9433862213.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195397696?rank=18&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 59 м²",
+        "price": "1 100 р. (381.24 $) в мес.",
+        "address": "Воронянского ул, 13к1, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9342312648.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9385525236.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9317338684.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9306535537.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195289885?rank=19&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 72 м²",
+        "price": "346.24 р. (120 $) в мес.",
+        "address": "Железнодорожная ул, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/91/9104923478.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/91/9113446797.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/91/9152695722.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/91/9187876840.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195057853?rank=20&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 81 м²",
+        "price": "1 731 р. (600 $) в мес.",
+        "address": "переулок Калинина, 5А, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/81/8154655931.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/74/7459690017.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/81/8199448210.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/81/8180225888.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193140996?rank=21&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 68 м²",
+        "price": "1 298 р. (450 $) в мес.",
+        "address": "Калиновского ул, 107, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8882978880.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8874455561.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8856216937.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/88/8857408923.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/194750589?rank=22&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 50 м²",
+        "price": "865.59 р. (300 $) в мес.",
+        "address": "Надеждинская ул, 15к1, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9410584466.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9460636538.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9419107785.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9452113219.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195394762?rank=23&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 96.5 м²",
+        "price": "1 140 р. (395 $) в мес.",
+        "address": "Казимировская ул, 33, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/69/6910658967.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/69/6919182286.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/69/6907887290.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/69/6990840652.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/192703499?rank=24&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 62 м²",
+        "price": "865.59 р. (300 $) в мес.",
+        "address": "Ландера ул, 34, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/78/7895306167.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/78/7816316468.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/78/7807793149.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/78/7827119615.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193570121?rank=25&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 50 м²",
+        "price": "1 298 р. (450 $) в мес.",
+        "address": "Независимости пр, 153к2, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9310394258.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9349643183.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9327440896.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/93/9318917577.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195202133?rank=26&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 78 м²",
+        "price": "1 298 р. (450 $) в мес.",
+        "address": "Притыцкого ул, 48, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/87/8700182560.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/87/8714949370.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/87/8766089284.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/87/8740519327.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/194638824?rank=27&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 68 м²",
+        "price": "1 010 р. (350 $) в мес.",
+        "address": "Мирошниченко ул, 10/1, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9421789784.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9485520824.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9418317970.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/94/9415054444.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/195388785?rank=28&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    },
+    {
+        "apartment": "3 комн., 87 м²",
+        "price": "700 р. (242.61 $) в мес.",
+        "address": "Каролинская ул, 14, Минск",
+        "photos": [
+            "https://yams.kufar.by/api/v1/kufar-ads/images/74/7476962352.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/74/7468439033.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/74/7451392395.jpg?rule=list_thumbs_2x",
+            "https://yams.kufar.by/api/v1/kufar-ads/images/74/7409863642.jpg?rule=list_thumbs_2x"
+        ],
+        "link": "https://re.kufar.by/vi/minsk/snyat/kvartiru-dolgosrochno/193184523?rank=29&searchId=099ec2e6ae1921f9993880dcd41f9e0cc665"
+    }
+]
